@@ -1,6 +1,10 @@
 <?php
 
-echo"Hello A R Shahrear ";
+//echo  printf এর মত কাজ করে
+
+//<br> এটা \n এর মত কাজ করে <br> html এর tag
+
+echo"Hello <br> A R Shahrear ";
 
 
 ?>
